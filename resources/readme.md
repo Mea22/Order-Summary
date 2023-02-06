@@ -8,8 +8,8 @@ This is Order summary card project.
 
  ### links
   
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/Mea22/Order-Summary
+- Live Site URL: https://mea22.github.io/Order-Summary/
 
 ### Built with
 
